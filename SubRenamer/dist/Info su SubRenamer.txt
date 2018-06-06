@@ -1,0 +1,2 @@
+SubRenamer serve per rinominare i sottotitoli dei telefilm 
+in modo che vengano letti automaticamente dal rispettivo file video.
